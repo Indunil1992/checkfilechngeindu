@@ -4,12 +4,12 @@
       "c8ebd898-7fd2-4d70-b912-15573bc2dae1": {
         "id": "c8ebd898-7fd2-4d70-b912-15573bc2dae1",
         "parent": null,
-        "name": "checkfilechngeindu.js",
+        "name": "checkfilechngeindu1.js",
         "type": "JS_LAMBDA",
         "isDirectory": false,
         "children": [],
         "isRemovable": true,
-        "filePath": "checkfilechngeindu.js",
+        "filePath": "checkfilechngeindu1.js",
         "cursor": {
           "lineNumber": 1,
           "column": 1
@@ -77,7 +77,7 @@
     "platform": "AWS",
     "language": "nodejs",
     "platformRegions": {},
-    "lastSave": 1585808076957
+    "lastSave": 1585808611021
   },
   "VCS_STATE": {
     "provider": "GitHub",
